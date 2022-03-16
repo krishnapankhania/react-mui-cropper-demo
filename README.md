@@ -2,6 +2,8 @@
 
 # react-cropper + mui with rotate and flip option
 
+Demo: [https://codesandbox.io/s/react-cropper-js-mui-with-rotate-and-flip-option-y7mm6n](https://codesandbox.io/s/react-cropper-js-mui-with-rotate-and-flip-option-y7mm6n)
+
 Modules
 
 - [Material UI](https://mui.com)
